@@ -1,0 +1,16 @@
+{
+  "name": "J.A.R.V.I.S. MOBILE β",
+  "short_name": "JARVIS",
+  "description": "Assistente pessoal de voz — versão mobile beta",
+  "start_url": "./jarvis_mobile_beta.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#030a10",
+  "theme_color": "#030711",
+  "lang": "pt-BR",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
